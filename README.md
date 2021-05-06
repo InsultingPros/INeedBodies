@@ -7,7 +7,7 @@ Allows zed corpses to stay longer. In comparison to 1060 version
 * Husks were added.
 * Fixed invisible zeds after switching game to vanilla. Thanks to [Scary Ghost](https://github.com/scaryghost/SuperZombieMut/blob/master/Classes/SuperZombieMut.uc).
 
-> N.B. I do not plan to optimise this for dedicated servers / add other features. Fork this or create a PR.
+> N.B. I do not plan to optimize this for dedicated servers / add other features. Fork this or create a PR.
 
 ## Installation
 
