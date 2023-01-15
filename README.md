@@ -1,6 +1,6 @@
 # I Need Bodies
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/INeedBodies/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/INeedBodies/total)](https://github.com/InsultingPros/INeedBodies/releases)
 
 Allows zed corpses to stay longer. In comparison to 1060 version
 
